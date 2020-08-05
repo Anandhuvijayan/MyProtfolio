@@ -22,7 +22,7 @@ export default class About extends Component {
                 </div>
 
                 <p className="mb-5">
-                  I am a passionate Full Stake Software developer and I
+                  I am a passionate Full-Stack Software developer and I
                   interested to study updated technologies and tackle complex
                   problems. I completed my Bachelors in Computer Science
                   Engineering. My technical and management skills which will use
