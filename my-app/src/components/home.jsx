@@ -17,7 +17,7 @@ export default class Home extends Component {
                   Hello, I'm <strong>Anandhu Vijayan</strong>
                 </h1>
                 <p className="lead site-subheading mb-4 site-animate">
-                  A Web Developer activelly looking for a new possition. I love
+                  A Web Developer activelly looking for a new position. I love
                   to explore new technologies and always try to enhance my
                   skills through develop some projects.
                 </p>
